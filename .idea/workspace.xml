@@ -10,11 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c572ab67-e407-4cbd-8ed2-9e08d76c3d03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_div.png" afterDir="false" />
+    <list default="true" id="c572ab67-e407-4cbd-8ed2-9e08d76c3d03" name="Default Changelist" comment="Created a background and added a logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599590030641</updated>
       <workItem from="1599590034399" duration="154000" />
-      <workItem from="1599590199869" duration="4439000" />
+      <workItem from="1599590199869" duration="5341000" />
     </task>
+    <task id="LOCAL-00001" summary="Created a background and added a logo">
+      <created>1599594827209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599594827209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,8 +85,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created a background and added a logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a background and added a logo" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599594842268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599594842268" />
     <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599590110799">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
