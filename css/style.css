@@ -60,15 +60,17 @@ p{
     font-size: 14px;
 }
 .wrapper{
+    max-width: 1200px;
     margin: 0 auto;
-    max-width: 1250px;
     padding-top: 93px;
 }
 
 .foto{
-    display: flex;
     width: 25%;
+}
+
+.items{
+    display: flex;
     flex-wrap: nowrap;
 
 }
-
