@@ -64,13 +64,15 @@ p{
     margin: 0 auto;
     padding-top: 93px;
 }
-
 .foto{
+
     width: 25%;
+
 }
 
 .items{
-    display: flex;
-    flex-wrap: nowrap;
+    display: inline-block;
+    flex-wrap: wrap;
+
 
 }
